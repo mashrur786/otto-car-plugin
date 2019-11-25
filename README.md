@@ -1,5 +1,5 @@
 # Otto Car Discount Calculator (OCDC) : A Wordpress Plugin
-git commit -m "first commit"
+This is a simple WordPress plugin which is used to calculate the discount for a list of rental cars available on the Otto car Rent-to-Buy Scheme.
 
 ## Installation
 Download as a ZIP file or Clone the plugins to "/wp-content/plugins/" folder.
