@@ -1,0 +1,51 @@
+{
+  "agreement_TPPI": {
+    "model" : "BRAND NEW PLUG-IN HYBRID",
+    "vehicle": "Toyota Prius Plug-in Hybrid Business Edition Plus",
+    "type": "69 PLATE",
+    "agreement_length": 3.5,
+    "weekly_rental": 249,
+    "img": "https://ottocar.co.uk/wp-content/uploads/2019/07/Prius-Plug-in_crop5-fjpg.webp"
+  },
+  "agreement_NLT6": {
+    "id": 2,
+    "model" : "BRAND NEW ELECTRIC",
+    "vehicle": "Nissan Leaf e+ Tekna - 62kWh",
+    "type": "69 PLATE",
+    "agreement_length": 4,
+    "weekly_rental": 249,
+    "img": "https://ottocar.co.uk/wp-content/uploads/2019/08/connecta@2x-fjpg.webp"
+  },
+  "agreement_NLT4": {
+    "model" : "BRAND NEW ELECTRIC",
+    "vehicle": "Nissan Leaf e+ Tekna - 40kWh",
+    "type": "69 PLATE",
+    "agreement_length": 4,
+    "weekly_rental": 219,
+    "img": "https://ottocar.co.uk/wp-content/uploads/2019/08/connecta@2x-fjpg.webp"
+  },
+  "agreement_MVTS": {
+    "model" : "BRAND NEW DIESEL",
+    "vehicle": "Mercedes Vito Tourer Select",
+    "type": "69 PLATE",
+    "agreement_length": 4,
+    "weekly_rental": 279,
+    "img" : "https://ottocar.co.uk/wp-content/uploads/2019/04/Mercedes-Vito-white-bkground-01-e1557487858794-fjpg.webp"
+  },
+  "agreement_MGZS": {
+    "model" : "BRAND NEW ELECTRIC",
+    "vehicle": "MG ZS EV Exclusive",
+    "type": "69 PLATE",
+    "agreement_length": 3,
+    "weekly_rental": 259,
+    "img" : "https://ottocar.co.uk/wp-content/uploads/2019/08/Untitled-1.jpg"
+  },
+  "agreement_KNPH": {
+    "model" : "BRAND NEW PLUG-IN HYBRID",
+    "vehicle": "Kia Niro Plug-In Hybrid",
+    "type": "69 PLATE",
+    "agreement_length": 3.5,
+    "weekly_rental": 249,
+    "img": "https://ottocar.co.uk/wp-content/uploads/2019/07/Kia_Niro_plug_in_hybrid-01-fjpg.webp"
+  }
+}
